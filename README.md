@@ -8,12 +8,12 @@ A smart traffic light controller using Arduino and ultrasonic sensors — design
 
 <table>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQFOr5BwSDtgow/feedshare-shrink_2048_1536/B4DZYxSDuaHIAo-/0/1744583543516?e=1747872000&v=beta&t=LAQ1sXjWiSMOXvYiEoHcc2346N19MHb0I-sTO_tsm7E" width="100%"/></td>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQHydzE1dfYjsA/feedshare-shrink_2048_1536/B4DZYxSDueGwAs-/0/1744583545451?e=1747872000&v=beta&t=nLMZ7oRV5-2-Ubr6laTFUr-AhTQfBgDiQR0Kci6obtU" width="100%"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQFOr5BwSDtgow/feedshare-shrink_2048_1536/B4DZYxSDuaHIAo-/0/1744583543516?e=1756339200&v=beta&t=WUm22zqG59NdhK0iCurHVN1yx-sRE-CqczHZhy0iT7w" width="100%"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQHydzE1dfYjsA/feedshare-shrink_2048_1536/B4DZYxSDueGwAs-/0/1744583545451?e=1756339200&v=beta&t=N55O1U5ZbXInoY_rOpayY-sMfkw68c0TfnJno4DLE0Y" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQEEE1gXdC4K_A/feedshare-shrink_2048_1536/B4DZYxSDukHIAo-/0/1744583545417?e=1747872000&v=beta&t=qKQyVPrStOk5uAWLpT6yNLTHRfd-dvQaVyMGHaqkz4A" width="100%"/></td>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQFNAvjJAFv_zg/feedshare-shrink_2048_1536/B4DZYxSDuHGwAo-/0/1744583544051?e=1747872000&v=beta&t=s_PLwuRwnCnVxZdoT0josfw1nalIq0-XLBTsbDt-6zw" width="100%"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQEEE1gXdC4K_A/feedshare-shrink_2048_1536/B4DZYxSDukHIAo-/0/1744583545417?e=1756339200&v=beta&t=zDrprw6GUsQuIVmVA1HhHy8o2IhsTO_Z2BV-UmRk7eY" width="100%"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4D22AQFNAvjJAFv_zg/feedshare-shrink_2048_1536/B4DZYxSDuHGwAo-/0/1744583544051?e=1756339200&v=beta&t=VV0SOfrb2fQjhowo4zo4pswj3kaWFuJUuhynvM5SkaY" width="100%"/></td>
   </tr>
 </table>
 
